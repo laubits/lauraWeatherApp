@@ -1,0 +1,47 @@
+/* Add your amazing style here! */
+body{
+
+  color: #ffffff;
+  background: linear-gradient(#ffffff, #D1D1D1);
+  font-family: sans-serif;
+  font-weight:lighter;
+
+}
+body > h1{
+  width: 30%;
+  margin: 0 35%;
+  text-align: center;
+  background: linear-gradient(#6DBC95, #A2D4BB);
+  border-radius: 10px;
+  font-weight:bold;
+}
+
+.cityWeatherComponent h1{
+  text-align: center;
+  font-weight:bold;
+  padding-top: 1em;
+
+}
+.cityWeatherComponent{
+  display: flow-root;
+
+  width: 47%;
+  height: 500px;
+  background: linear-gradient(#6DBC95, #A2D4BB);
+  border-radius: 10px;
+  float: left;
+  margin: 1em;
+
+
+
+}
+
+.cityWeatherComponent p{
+  width: 10.5em;
+  text-align: left;
+  float: right;
+
+
+
+  margin-right: 2em;
+}
